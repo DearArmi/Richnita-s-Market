@@ -1,0 +1,2 @@
+rootProject.name = "Richnita’s Market"
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Richnita’s Market</string>
+    <string name="total">Total:</string>
+    <string name="sort_by_name">Sort by Name</string>
+</resources>
